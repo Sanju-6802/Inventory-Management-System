@@ -4,6 +4,6 @@ This is an inventory management system designed for a tyre manufacturer company.
 
 The admin level allows the user to add, edit, and delete products, manage orders, and track inventory levels. The user level allows the user to view products, place orders, and track order status.
 
-The system is designed to be user-friendly and efficient, with a clear and intuitive interface. It is built using Python and Django web framework, along with HTML, CSS, and JavaScript for the frontend.
+The system is designed to be user-friendly and efficient, with a clear and intuitive interface. It is built using Python.
 
 This project aims to provide a streamlined and organized approach to inventory management for the tyre manufacturer company, allowing them to easily manage their products and orders.
